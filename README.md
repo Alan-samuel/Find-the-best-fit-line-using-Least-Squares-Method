@@ -1,4 +1,8 @@
 # Implementation of Univariate Linear Regression
+
+Name : Alan Samuel Vedanayagam
+Reg.No: 212223040012
+
 ## AIM:
 To implement univariate Linear Regression to fit a straight line using least squares.
 
